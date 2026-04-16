@@ -2,7 +2,8 @@
 
 Welcome to Sialkot Motors, your ultimate destination for exploring and purchasing luxury cars online. This repository contains the codebase for our website, designed to showcase our inventory and provide a seamless user experience. This is a work in development so many more changes will be implemented on my roadmap to being a full-stack developer.
 
-<img width="1920" height="3038" alt="image" src="https://github.com/user-attachments/assets/42d79da6-41d4-4630-8146-c94959f93e60" />
+<img width="1920" height="3038" alt="image" src="https://github.com/user-attachments/assets/c794f2bf-33a9-4d71-96c9-f1b7ef7c5840" />
+
 
 ## Table of Contents
 
